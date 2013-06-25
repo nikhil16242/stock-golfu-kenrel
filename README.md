@@ -1,4 +1,4 @@
-stock-golfu-kenrel
+CM10.1-golfu-kenrel
 ==================
 
-golfu_stock_kernel
+
